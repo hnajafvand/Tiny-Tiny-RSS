@@ -1,3 +1,4 @@
+Create database custom_tt_rss;
 SET NAMES utf8;
 SET CHARACTER SET utf8;
 
